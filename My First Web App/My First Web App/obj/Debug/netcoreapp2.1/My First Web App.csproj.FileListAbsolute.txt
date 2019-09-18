@@ -1,0 +1,32 @@
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\bin\Debug\netcoreapp2.1\My First Web App.deps.json
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\bin\Debug\netcoreapp2.1\My First Web App.runtimeconfig.json
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\bin\Debug\netcoreapp2.1\My First Web App.runtimeconfig.dev.json
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\bin\Debug\netcoreapp2.1\My First Web App.dll
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\bin\Debug\netcoreapp2.1\My First Web App.pdb
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\bin\Debug\netcoreapp2.1\My First Web App.Views.dll
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\bin\Debug\netcoreapp2.1\My First Web App.Views.pdb
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.csprojAssemblyReference.cache
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.RazorAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.RazorAssemblyInfo.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.TagHelpers.input.cache
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.TagHelpers.output.cache
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.RazorCoreGenerate.cache
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.RazorTargetAssemblyInfo.cache
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.RazorTargetAssemblyInfo.cs
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.Views.pdb
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.dll
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.pdb
+C:\Users\maria\OneDrive\Documents\Term3\ASP.NET\Repo number 1\My First Web App\My First Web App\obj\Debug\netcoreapp2.1\My First Web App.csproj.CopyComplete
